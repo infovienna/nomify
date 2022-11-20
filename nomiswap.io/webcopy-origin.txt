@@ -1,0 +1,40 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\nomiswap.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\nomiswap.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\nomiswap.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\nomiswap.io\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://nomiswap.io/
+File Name: C:\Downloaded Web Sites\nomiswap.io\index.htm
+Content Type: text/html
+
+Uri: https://nomiswap.io/favicon.ico
+File Name: C:\Downloaded Web Sites\nomiswap.io\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://nomiswap.io/logo.png
+File Name: C:\Downloaded Web Sites\nomiswap.io\logo.png
+Content Type: image/png
+
+Uri: https://nomiswap.io/manifest.json
+File Name: C:\Downloaded Web Sites\nomiswap.io\manifest.json
+Content Type: application/json
+
+Uri: https://nomiswap.io/static/css/main.f9d3e2b1.css
+File Name: C:\Downloaded Web Sites\nomiswap.io\static\css\main.f9d3e2b1.css
+Content Type: text/css
+
+Uri: https://nomiswap.io/static/js/main.8ca822d1.js
+File Name: C:\Downloaded Web Sites\nomiswap.io\static\js\main.8ca822d1.js
+Content Type: application/javascript
+
